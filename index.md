@@ -1,6 +1,6 @@
 ## 欢迎来到吴永领的首页
 
-You can use the [这是他的唯一微博](https://wuyongling/weibo.com) 欢迎进入他的生活区，日常鲨凋生活都在这里啦
+You can use the [这是他的唯一微博](https://weibo.com/wuyongling) 欢迎进入他的生活区，日常鲨凋生活都在这里啦
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
